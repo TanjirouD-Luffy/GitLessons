@@ -1,0 +1,1 @@
+const ji = "Hello Word"
